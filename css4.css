@@ -138,6 +138,7 @@ nav {
     position: relative;
     left: -2%;
     z-index: 2;
+    box-sizing: border-box;
 }
 .icon {
     display: block;
@@ -210,5 +211,6 @@ span {
     }
 
 }
+
 
 
