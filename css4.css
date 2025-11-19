@@ -192,6 +192,7 @@ span {
         bottom: -5dvh;
         z-index: 2;
         margin: 0 auto 0 auto;
+        box-sizing: border-box;
     }
     .block {
         width: 70%;
@@ -215,6 +216,7 @@ span {
     }
 
 }
+
 
 
 
