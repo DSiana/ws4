@@ -9,13 +9,13 @@ body {
     flex-direction: row;
     justify-content: space-around;
     background-color: #ffffff;
-    min-height: 7dvh;
+    min-height: 9dvh;
     box-sizing: border-box;
     margin: 0;
 }
 #content {
     background-color: #003ecb;
-    min-height: 83dvh;
+    min-height: 81dvh;
     box-sizing: border-box;
     margin: 0;
     padding-left: 25dvh;
@@ -205,4 +205,5 @@ span {
     .menu-dropdown {
         right: 1dvh;
     }
+
 }
